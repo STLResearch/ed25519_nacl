@@ -1,4 +1,4 @@
-import 'package:dart_console_app/dart_console_app.dart';
+import '../lib/ed25519_nacl.dart';
 
 void main(List<String> arguments) {
   final eVMPrivateKey =

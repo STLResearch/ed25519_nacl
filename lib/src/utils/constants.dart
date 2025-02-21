@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 
-import '../tweet_nacl.dart';
+import '../nacl.dart';
 
 var iv = Uint8List.fromList([
   0x6a,

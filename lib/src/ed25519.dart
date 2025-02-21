@@ -2,7 +2,7 @@ import 'dart:typed_data';
 
 import 'package:convert/convert.dart';
 
-import 'tweet_nacl.dart' as l;
+import 'nacl.dart' as l;
 
 class ED25519Key {
   const ED25519Key({
